@@ -6,7 +6,7 @@ I'm a FullStack Developer, Programmer, Designer & self motivated tech enthusiast
 ![Banner.](https://github.com/VijayMeena701/VijayMeena701/raw/master/assets/software-developer.webp)
 ## About Me
 ```javascript
-const VijayMena701 = () => {
+const VijayMeena701 = () => {
 	const aboutMe = {
     	name: "Vijay Meena",
         username: "VijayMeena701",
@@ -21,6 +21,7 @@ const VijayMena701 = () => {
 console.log(VijayMeena701());
 ```
 <br />
+
 ### 🛠 &nbsp;Tech Stack
 
 <p>
