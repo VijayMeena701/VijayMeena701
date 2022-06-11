@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, my name is Vijay Meena
 #### I'm a FullStack Developer, Programmer, Designer & self motivated tech enthusiast..
-![I'm a FullStack Software Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I'm a FullStack Software Developer.](https://github.com/VijayMeena701/VijayMeena701/blob/master/assets/software-developer.webp)
 
 
 <br>
