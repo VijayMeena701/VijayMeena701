@@ -15,9 +15,19 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, my name is Vijay Meena
-#### I'm a FullStack Software Developer.
+#### I'm a FullStack Developer, Programmer, Designer & self motivated tech enthusiast..
 ![I'm a FullStack Software Developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
+
+<br>
+
+<p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-e34c26?style=for-the-badge&logo=html5&logoColor=f06529&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-3c99dc?style=for-the-badge&logo=css3&logoColor=55d3fa&labelColor=282828">
+  <img src="https://img.shields.io/badge/-JavaScript-cc9900?style=for-the-badge&logo=javascript&logoColor=ffcc00&labelColor=282828">
+</div>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
