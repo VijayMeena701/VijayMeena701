@@ -80,7 +80,7 @@ console.log(VijayMeena701());
 <br/>
 <p align="center" style="display:flex;justify-content:center;align-items:center;">
   <a href="https://github.com/VijayMeena701/github-readme-stats">
-  <img width="48%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayMeena701&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" />
+  <img width="48%" height="20%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VijayMeena701&show_icons=true&theme=gruvbox&layout=compact&langs_count=8&count_private=true&hide_border=true" />
   </a>
   <a href="https://github.com/VijayMeena701/github-readme-stats">
     <img width="48%" height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=VijayMeena701&count_private=true&theme=gruvbox&hide_border=true" />
