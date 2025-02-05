@@ -11,7 +11,7 @@ const VijayMeena701 = () => {
     	name: "Vijay Meena",
         username: "VijayMeena701",
         location: "Mumbai, India",
-        web: "https://vijaymeena.netlify.app",
+        web: "https://vijaymeena.dev",
         email: "govardhanmeena701@gmail.com"
 	};
     
